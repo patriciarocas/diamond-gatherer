@@ -1,0 +1,34 @@
+/* p {
+    background-color: red;
+}
+
+
+canvas {
+    border: 2px solid black;
+}
+
+ #myButton
+{
+background-color: pink;
+}
+ */
+
+.display-none {
+    display: none;
+}
+
+
+#create-game-container {
+    margin-top: 10px;
+}
+
+#game-canvas {
+    border: 1px solid black;
+}
+
+.game-element {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
